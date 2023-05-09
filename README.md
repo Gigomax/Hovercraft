@@ -15,4 +15,4 @@ This code was run on an Arduino Nano and utilized the following hardware compone
   
   1 x HS-311 servo motor (to turn the thrust fan for steering)
   
-  1 x MPU-6050 IMU sensor (to detect heading angle and correct to go straight)
+  1 x GY-521 (MPU-6050) IMU sensor (to detect heading angle and correct to go straight)
